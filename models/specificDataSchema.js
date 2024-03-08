@@ -20,9 +20,6 @@ const specificDataSchema = new mongoose.Schema({
     Freq1: {
         type: Number
     },
-    Current1:{
-        type: Number
-    },
     Pf1:{
         type: Number
     }
